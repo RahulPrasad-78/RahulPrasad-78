@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **Email: rahulprasad4653@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning ideas into full-stack applications and solving algorithmic problems.**
-
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1lpXtVP2wtlBkkk75fkWVM8GHUHhp8QpB/view?usp=sharing](https://drive.google.com/file/d/1lpXtVP2wtlBkkk75fkWVM8GHUHhp8QpB/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
